@@ -16,7 +16,7 @@
  - CyberSecurity
 
 😄 Meus interesses
- - Computadroes
+ - Computadores
  - Video Games
  - Animes
  - Futebol
