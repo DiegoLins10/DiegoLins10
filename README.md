@@ -23,6 +23,6 @@
 
 :telephone_receiver: Onde me encontrar?
 - diegofernandeslins@gmail.com :email: 
-- (11) 9 8754-9239 :iphone:
+- (11) 9 8754-9239 :iphone: (WhatsApp)
 - <a href="https://www.linkedin.com/in/diego-fernandes-lins-b24698195"><img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)
 
