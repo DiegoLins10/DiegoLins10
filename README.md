@@ -22,4 +22,4 @@
  - Futebol
 
 :telephone_receiver: Contatos
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/DiegoLins10/DiegoLins10/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)  
+<a href="https://www.linkedin.com/in/diego-fernandes-lins-b24698195"><img src="https://github.com/DiegoLins10/DiegoLins10/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)  
