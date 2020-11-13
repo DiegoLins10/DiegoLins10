@@ -20,3 +20,6 @@
  - Video Games
  - Animes
  - Futebol
+
+:telephone_receiver: Contatos
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/diego-fernandes-lins-b24698195/diego-fernandes-lins-b24698195/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)  
