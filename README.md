@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Olá, Sou Diego, eu tenho 19 anos, e busco crescer e aprender cada vez mais nesse ramo de programação para me tornar um grande profissional de TI, atualmente tenho conhecimentos em Java, JavaScript, HTML/CSS  e Python.
+### Olá, Sou Diego, eu tenho 19 anos, e busco crescer e aprender cada vez mais nesse ramo de programação para me tornar um grande profissional de TI, atualmente tenho conhecimentos em Java, JavaScript, HTML/CSS  e Python.
 
 Here are some ideas to get you started:
 
