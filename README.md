@@ -1,15 +1,23 @@
-### Hi there 👋
+### Hi there 👋👯
 
-### Olá, Sou Diego, eu tenho 19 anos, e busco crescer e aprender cada vez mais nesse ramo de programação para me tornar um grande profissional de TI, atualmente tenho conhecimentos em Java, JavaScript, HTML/CSS  e Python.
+💬 Sou Diego, eu tenho 19 anos, atualmente estou cursando Análise e desenvolvimento de sistemas na Fatec Ferraz de Vasconcelos e busco crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande profissional de TI.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Minhas Habilidades
+ - Java
+ - Python
+ - HTML/CSS
+ - JavaScript
+ - Sql
+ 
+🌱 Aprendendo
+ - Spring boot
+ - Rede de computadores
+ - CyberSecurity
+
+😄 Meus interesses
+ - Computadroes
+ - Video Games
+ - Animes
+ - Futebol
