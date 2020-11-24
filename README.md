@@ -9,7 +9,8 @@
  - HTML/CSS
  - JavaScript
  - Sql
- img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolins10&hide=html&layout=compact&theme=buefy" />  
+ 
+ <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolins10&hide=html&layout=compact&theme=buefy" />  
  
 🌱 Aprendendo
  - Spring boot
