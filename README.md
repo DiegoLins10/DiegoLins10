@@ -2,7 +2,7 @@
 
 💬 Sou Diego, eu tenho 19 anos, atualmente estou cursando Análise e desenvolvimento de sistemas na Fatec Ferraz de Vasconcelos e estou buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande profissional de TI.
 
-
+<img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/op.png" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador">
 🔭 Minhas Habilidades
  - Java
  - Python
