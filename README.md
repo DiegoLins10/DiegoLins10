@@ -2,7 +2,7 @@
 
 💬 Sou Diego, eu tenho 19 anos, atualmente estou cursando Análise e desenvolvimento de sistemas na Fatec Ferraz de Vasconcelos e estou buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande profissional de TI.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 🔭 Minhas Habilidades
  - Java
@@ -15,7 +15,7 @@
  - Spring boot
  - Rede de computadores
  - CyberSecurity
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 😄 Meus interesses
  - Computadores
  - Video Games
