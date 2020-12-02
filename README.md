@@ -10,7 +10,7 @@
  - HTML/CSS
  - JavaScript
  - Sql
- <img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+ 
 🌱 Aprendendo
  - Spring boot
  - Rede de computadores
