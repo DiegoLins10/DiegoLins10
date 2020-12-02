@@ -4,7 +4,6 @@
 
 
 
-<img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/op.png" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador">
 🔭 Minhas Habilidades
  - Java
  - Python
