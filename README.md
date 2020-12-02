@@ -3,14 +3,13 @@
 💬 Sou Diego, eu tenho 19 anos, atualmente estou cursando Análise e desenvolvimento de sistemas na Fatec Ferraz de Vasconcelos e estou buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande profissional de TI.
 
 
-<img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador" marge-top= "50px">
 🔭 Minhas Habilidades
  - Java
  - Python
  - HTML/CSS
  - JavaScript
  - Sql
- 
+ <img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 🌱 Aprendendo
  - Spring boot
  - Rede de computadores
