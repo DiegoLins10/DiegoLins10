@@ -10,7 +10,9 @@
  - HTML/CSS
  - JavaScript
  - Sql
+ 
  <img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 🌱 Aprendendo
  - Spring boot
  - Rede de computadores
