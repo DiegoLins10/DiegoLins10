@@ -14,7 +14,7 @@
  <img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 🌱 Aprendendo
- - Spring boot
+ - JEE Spring Boot
  - Rede de computadores
  - CyberSecurity
 
