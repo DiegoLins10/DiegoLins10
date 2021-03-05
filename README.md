@@ -24,7 +24,7 @@
  - Video Games
  - Animes
  - Futebol
-
+ 
 :telephone_receiver: Onde me encontrar?
 - :email: diegofernandeslins@gmail.com 
 - :iphone: (WhatsApp) (11) 9 8754-9239
