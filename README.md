@@ -17,7 +17,8 @@
  - JEE Spring Boot
  - Rede de computadores
  - CyberSecurity
- - Selenium QA
+ - Selenium QA/ Katalon
+ - Android Studio/ Kotlin
 
 😄 Meus interesses
  - Computadores
