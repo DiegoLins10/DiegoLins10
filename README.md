@@ -1,15 +1,17 @@
 ### Hi there 👋👯
 
-💬 Sou Diego, eu tenho 19 anos, atualmente estou cursando Análise e desenvolvimento de sistemas na Fatec Ferraz de Vasconcelos e estou buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande profissional de TI.
+💬 Sou Diego, eu tenho 20 anos, atualmente estou cursando Análise e desenvolvimento de sistemas na Fatec Ferraz de Vasconcelos e estou buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande profissional de TI.
 
 
 
 🔭 Minhas Habilidades
  - Java
  - Python
- - HTML/CSS
+ - HTML5/CSS3
  - JavaScript
- - Sql
+ - SQL
+ - C#
+ - Kotlin
  
  <img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
@@ -19,6 +21,7 @@
  - CyberSecurity
  - Selenium QA/ Katalon
  - Android Studio/ Kotlin
+ - C# .Net
 
 😄 Meus interesses
  - Computadores
