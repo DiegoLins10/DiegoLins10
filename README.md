@@ -21,6 +21,7 @@
  - CyberSecurity
  - Selenium QA/ Katalon
  - Android Studio/ Kotlin
+ - Javascript/ Node js
  - C# .Net
 
 😄 Meus interesses
