@@ -37,7 +37,7 @@
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=html&layout=compact&theme=buefy&" />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
