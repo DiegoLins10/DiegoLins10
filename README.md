@@ -36,3 +36,6 @@
 - <a href="https://www.linkedin.com/in/diego-fernandes-lins-b24698195"><img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=html&layout=compact&theme=buefy&" />  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
