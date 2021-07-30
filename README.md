@@ -37,5 +37,9 @@
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=buefy&langs_count=8" />  
 
+[![Commits Badge](https://badges.pufler.dev/commits/all/DiegoLins10)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/DiegoLins10)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/DiegoLins10)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/weekly/DiegoLins10)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/daily/DiegoLins10)](https://badges.pufler.dev)
 
