@@ -2,7 +2,6 @@
 
 💬 Sou Diego, eu tenho 20 anos, atualmente estou cursando Análise e desenvolvimento de sistemas na Fatec Ferraz de Vasconcelos e estou buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande profissional de TI.
 
-Portfolio: https://diegolinsportfolio.netlify.app/
 
 🔭 Minhas Habilidades
  - Java
@@ -34,6 +33,7 @@ Portfolio: https://diegolinsportfolio.netlify.app/
 - :email: diegofernandeslins@gmail.com 
 - :iphone: (WhatsApp) (11) 9 8754-9239
 - <a href="https://www.linkedin.com/in/diego-fernandes-lins-b24698195"><img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)
+- Portfolio: https://diegolinsportfolio.netlify.app/
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=buefy&langs_count=8" />  
 
