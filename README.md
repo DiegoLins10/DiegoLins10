@@ -9,19 +9,20 @@
  - HTML5/CSS3
  - JavaScript
  - SQL
- - C#
- - Kotlin
+ - C# .Net
+ - Selenium QA/ Katalon
+ - Android Studio/ Kotlin
  
  <img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 🌱 Aprendendo
  - JEE Spring Boot
  - Rede de computadores
- - CyberSecurity
- - Selenium QA/ Katalon
- - Android Studio/ Kotlin
+ - CyberSecurity 
  - Javascript/ Node js
  - C# .Net
+ - Dart / Flutter
+ - Typescript / Angular
 
 😄 Meus interesses
  - Computadores
