@@ -42,5 +42,5 @@
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/DiegoLins10)](https://badges.pufler.dev)<br>
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/DiegoLins10)](https://badges.pufler.dev)<br>
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/DiegoLins10)](https://badges.pufler.dev)<br>
-[![Commits Badge](https://badges.pufler.dev/commits/daily/DiegoLins10)](https://badges.pufler.dev)
+
 
