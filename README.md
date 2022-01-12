@@ -36,7 +36,7 @@
 - <a href="https://www.linkedin.com/in/diego-fernandes-lins-b24698195"><img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)
 - Portfolio: https://diegolinsportfolio.netlify.app/
 
-<img width="400px" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=dark&langs_count=8" />  
-<img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegolins10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="400px" height="300em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=dark&langs_count=8" />  
+<img width="400px" height="300em" src="https://github-readme-stats.vercel.app/api?username=diegolins10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 
