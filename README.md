@@ -37,10 +37,6 @@
 - Portfolio: https://diegolinsportfolio.netlify.app/
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=buefy&langs_count=8" />  
-
-[![Commits Badge](https://badges.pufler.dev/commits/all/DiegoLins10)](https://badges.pufler.dev)<br>
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/DiegoLins10)](https://badges.pufler.dev)<br>
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/DiegoLins10)](https://badges.pufler.dev)<br>
-[![Commits Badge](https://badges.pufler.dev/commits/weekly/DiegoLins10)](https://badges.pufler.dev)<br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegolins10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
