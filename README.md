@@ -1,7 +1,6 @@
 ### Hi there 👋👯
 
-💬 Sou Diego, eu tenho 20 anos, atualmente estou cursando Análise e desenvolvimento de sistemas na Fatec Ferraz de Vasconcelos e estou buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande profissional de TI.
-
+💬 Sou Diego, eu tenho 21 anos, formado em Análise e desenvolvimento de sistemas pela FATEC Ferraz de Vasconcelos. Atualmente sou um desenvolvedor de software com dois anos de experiência trabalhando com .Net, Angular, SQL Server e Azure DevOps Server. Sigo buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande especialista profissional de TI.
 
 🔭 Minhas Habilidades
  - Java
@@ -10,6 +9,7 @@
  - JavaScript
  - SQL
  - C# .Net
+ - Angular
  - Selenium QA/ Katalon
  - Android Studio/ Kotlin
  
