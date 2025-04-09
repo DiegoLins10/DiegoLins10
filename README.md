@@ -1,6 +1,6 @@
 ### Hi there 👋👯
 
-💬 Sou Diego, eu tenho 22 anos, formado em Análise e desenvolvimento de sistemas pela FATEC Ferraz de Vasconcelos. Atualmente sou um desenvolvedor de software com dois anos de experiência trabalhando com .Net, Angular, SQL Server e Azure DevOps Server. Sigo buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande especialista de TI.
+💬 Sou Diego, eu tenho 24 anos, formado em Análise e desenvolvimento de sistemas pela FATEC Ferraz de Vasconcelos. Atualmente sou um engenheiro de software com cinco anos de experiência trabalhando com .NET, Angular, SQL Server, AWS e Azure DevOps Server. Sigo buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande especialista de TI.
 
 🔭 Minhas Habilidades
  - Java
@@ -9,6 +9,7 @@
  - JavaScript
  - SQL
  - C# .NET
+ - AWS
  - Angular
  - Selenium QA/ Katalon
  - Android Studio/ Kotlin
@@ -19,14 +20,9 @@
  <img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 🌱 Aprendendo
- - JEE Spring Boot
- - Rede de computadores
- - CyberSecurity 
- - Javascript/ Node js
- - Dart / Flutter
- - Typescript / Angular
- - MongoDB
- - Redis
+ - AWS
+ - CI/CD
+ - Microservices
 
 😄 Meus interesses
  - Computadores
