@@ -32,6 +32,8 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 - ✔️ Security and Privacy by Design (Technical)  
 - ✔️ Develop an ASP.NET Core Web App that Consumes an API  
 - 🏅 **Melhor aproveitamento acadêmico** – FATEC Ferraz de Vasconcelos
+- [ ] AWS Certified Developer – Associate *(em andamento)*  
+
 
 ---
 
@@ -42,6 +44,7 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 | 2024 - Atual   | **IBM – Engenheiro de Software Pleno**       | Sistemas escaláveis no Itaú com .NET, Java, Python e AWS |
 | 2023 - 2024    | **it'sSeg – Analista Pleno**                 | Features, correções e deploys com .NET, Angular e AWS |
 | 2021 - 2023    | **it'sSeg – Analista Jr / Estagiário**       | Suporte e desenvolvimento de sistemas internos |
+| 2020 - 2021    |  Estagiário**       | Suporte e desenvolvimento de sistemas internos |
 
 ---
 
