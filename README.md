@@ -1,44 +1,46 @@
-### Hi there 👋👯
+### Olá, seja bem-vindo ao meu perfil! 👋
 
-💬 Sou Diego, Engenheiro de Software com 24 anos e formado em Análise e Desenvolvimento de Sistemas pela FATEC Ferraz de Vasconcelos. Tenho cinco anos de experiência em desenvolvimento de software, atuando com tecnologias como .NET, Java, Python, Angular, SQL Server e soluções em nuvem com AWS. Atualmente, trabalho na IBM, contribuindo para projetos de alta relevância e desempenho. Sou apaixonado por tecnologia e estou em constante evolução, buscando me tornar um especialista de referência na área de TI.
+💻 **Sobre mim**  
+Sou Diego, Engenheiro de Software com 24 anos, formado em Análise e Desenvolvimento de Sistemas pela FATEC Ferraz de Vasconcelos. Tenho 5 anos de experiência atuando com desenvolvimento de software, utilizando tecnologias como .NET, Java, Python, Angular, SQL Server e AWS.  
+Atualmente trabalho na **IBM**, onde contribuo com projetos estratégicos e de alta performance. Sou movido por desafios e aprendizado contínuo — sempre buscando evoluir como profissional e me tornar um especialista referência na área de tecnologia.
 
-💬 I'm Diego, a 24-year-old Software Engineer with a degree in Systems Analysis and Development from FATEC Ferraz de Vasconcelos. I have five years of experience working with technologies such as .NET, Java, Python, Angular, SQL Server, and AWS. Currently, I work at IBM, contributing to high-impact and performance-driven projects. I'm passionate about technology and continuously striving to grow and evolve, aiming to become a leading expert in the IT field.
+🌎 **About me (EN)**  
+I'm Diego, a 24-year-old Software Engineer with a degree in Systems Analysis and Development from FATEC Ferraz de Vasconcelos. I have 5 years of experience working with .NET, Java, Python, Angular, SQL Server, and AWS.  
+Currently working at **IBM**, I contribute to strategic, high-performance projects. I'm passionate about learning and growing in the tech world, always aiming to become a reference in the IT field.
 
-🔭 Minhas Habilidades
- - Java
- - Python
- - HTML5/CSS3
- - JavaScript
- - SQL
- - C# .NET
- - AWS
- - Angular
- - Selenium QA/ Katalon
- - Android Studio/ Kotlin
- - CI/CD Azure DevOps
- - Hangfire
- - TypeScript
- 
- <img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+---
 
-🌱 Aprendendo
- - AWS
- - CI/CD
- - Microservices
+🚀 **Skills & Technologies**
+- **Languages:** C# (.NET), Java, Python, JavaScript, TypeScript, SQL  
+- **Frontend:** HTML5, CSS3, Angular  
+- **Cloud & DevOps:** AWS, Azure DevOps, CI/CD, Hangfire  
+- **Test Automation:** Selenium, Katalon  
+- **Mobile:** Android Studio, Kotlin  
 
-😄 Meus interesses
- - Computadores
- - Video Games
- - Animes
- - Futebol
- 
-:telephone_receiver: Onde me encontrar?
-- :email: diegofernandeslins@gmail.com 
-- :iphone: (WhatsApp) (11) 9 8754-9239
-- <a href="https://www.linkedin.com/in/diego-fernandes-lins-b24698195"><img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)
-- Portfolio: https://diegolinsportfolio.netlify.app/
+📘 **Learning now**
+- AWS (Cloud & Serverless)
+- CI/CD Pipelines
+- Microservices Architecture
+
+🎯 **Interesses**
+- Desenvolvimento de sistemas
+- Animes & Games 🎮
+- Futebol ⚽
+- Cultura Tech 👨‍💻
+
+---
+
+📞 **Onde me encontrar**
+- ✉️ diegofernandeslins@gmail.com  
+- 📱 WhatsApp: (11) 9 8754-9239  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)  
+- 🌐 [Portfólio](https://diegolinsportfolio.netlify.app/)
+
+---
+
+<img src="https://github.com/DiegoLins10/DiegoLins10/blob/main/luffy.png" width="300px" align="right" alt="Luffy">
+
+📊 **Estatísticas GitHub**
 
 <img width="400px" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=dark&langs_count=8" />  
 <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegolins10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-
