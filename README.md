@@ -14,73 +14,86 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 
 ---
 
-### 🧠 **Habilidades Técnicas**
+### 🧠 Habilidades Técnicas
+
 - **Linguagens:** C# (.NET), Java, Python, JavaScript, TypeScript, SQL  
-- **Frontend:** Angular, HTML5, CSS3  
-- **Cloud & DevOps:** AWS, Azure DevOps, CI/CD, Hangfire  
-- **Testes:** Selenium, Katalon  
-- **Mobile:** Android Studio, Kotlin  
-- **Banco de Dados:** SQL Server, DynamoDB
+- **Frameworks:** ASP.NET Core, Angular, Spring Boot, Node.js  
+- **Cloud & DevOps:** AWS (Lambda, SQS, S3, Step Functions, API Gateway, ECS, EC2), Azure DevOps, Git, CI/CD  
+- **Banco de dados:** SQL Server, MySQL, MongoDB, DynamoDB, Redis  
+- **Ferramentas:** Hangfire, Kafka, RabbitMQ, CloudWatch, DataDog, New Relic, Grafana  
 
 ---
 
-### 📈 **Carreira**
-| Ano        | Experiência                                      |
-|------------|--------------------------------------------------|
-| 2024 - 🟢  | IBM – Engenheiro de Software (alocado no Itaú)   |
-| 2022 - 2023| Software Engineer – Projetos com .NET e AWS      |
-| 2019 - 2022| Início na área de desenvolvimento                |
-| 2019       | Conclusão do curso na FATEC Ferraz de Vasconcelos|
+### 🏆 Certificações
+
+- ✔️ [CyberOps Associate](https://www.netacad.com/courses/cybersecurity/cyberops-associate)  
+- ✔️ GitHub Copilot Fundamentals  
+- ✔️ IBM watsonx Essentials  
+- ✔️ Security and Privacy by Design (Technical)  
+- ✔️ Develop an ASP.NET Core Web App that Consumes an API  
+- 🏅 **Melhor aproveitamento acadêmico** – FATEC Ferraz de Vasconcelos
 
 ---
 
-### 🏆 **Certificações**
-- [ ] AWS Certified Developer – Associate *(em andamento)*  
-- [x] Fundamentos de Cloud AWS  
-- [x] Lógica de Programação – Fundação Bradesco  
-- [x] .NET Avançado – Alura
+### 🧭 Linha do Tempo Profissional
+
+| Período        | Cargo & Empresa                              | Principais Atividades |
+|----------------|----------------------------------------------|------------------------|
+| 2024 - Atual   | **IBM – Engenheiro de Software Pleno**       | Sistemas escaláveis no Itaú com .NET, Java, Python e AWS |
+| 2023 - 2024    | **it'sSeg – Analista Pleno**                 | Features, correções e deploys com .NET, Angular e AWS |
+| 2021 - 2023    | **it'sSeg – Analista Jr / Estagiário**       | Suporte e desenvolvimento de sistemas internos |
 
 ---
 
-### 🚀 **Projetos em Destaque**
+### 📚 Formação Acadêmica
+
+- 🎓 **FATEC Ferraz de Vasconcelos** – Análise e Desenvolvimento de Sistemas (2019 – 2022)  
+- 🗣️ **CNA Idiomas – Inglês Avançado** (2017 – 2021)
+
+---
+
+### 🚀 Projetos em Destaque
+
 🔗 [Portfólio completo](https://diegolinsportfolio.netlify.app/)
 
-- 🔒 **API de Autenticação com JWT** – .NET 7 + AWS Cognito  
-- 🔁 **Sistema de Processamento de Câmbio** – Lambda + SQS + Step Functions  
-- 📊 **Dashboard Interativo de Investimentos** – Angular + Python + AWS
+- 🔒 **API de Autenticação com JWT** – ASP.NET Core + Cognito  
+- 📈 **Sistema de Câmbio e Renda Fixa** – AWS Lambda, Step Functions, SQS  
+- 📊 **Painel Interativo de Análise** – Angular + Python + AWS
 
 ---
 
-### 🌱 **Aprendendo Agora**
-- AWS avançado (Lambda, API Gateway, Step Functions)
-- Arquitetura de microsserviços
-- Testes unitários e de integração com xUnit, Moq, JUnit
+### 🌱 Em constante aprendizado
+
+- Arquitetura de Microsserviços  
+- Observabilidade (Datadog, Grafana, New Relic)  
+- Design Patterns & Clean Architecture  
 
 ---
 
-### 🎮 **Interesses Pessoais**
-- Computadores e tecnologia 💻  
-- Video games 🎮  
-- Animes (One Piece, Attack on Titan...)  
-- Futebol ⚽ (Corinthians ou outro? 😅)
+### 🎮 Interesses Pessoais
+
+- Tecnologia 💻  
+- Animes (One Piece, Jujutsu Kaisen, AOT)  
+- Video Games 🎮  
+- Futebol ⚽ (Corinthians? 😅)
 
 ---
 
-### 📫 **Onde me encontrar**
+### 📫 Onde me encontrar
+
 - ✉️ diegofernandeslins@gmail.com  
-- 📱 WhatsApp: (11) 9 8754-9239  
+- 📱 (11) 9 8754-9239  
 - 💼 [LinkedIn](https://www.linkedin.com/in/diego-fernandes-lins-b24698195)  
 - 🌐 [Portfólio](https://diegolinsportfolio.netlify.app/)
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 GitHub Stats
 
 <img width="400px" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=dark&langs_count=8" />  
 <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegolins10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ---
 
-### 👁️ Contador de visitas (opcional)
+### 👁️ Contador de visitas
 ![Visitor Badge](https://komarev.com/ghpvc/?username=DiegoLins10&color=blue)
-
