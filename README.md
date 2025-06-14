@@ -75,7 +75,7 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 - Tecnologia 💻  
 - Animes (One Piece, Jujutsu Kaisen, AOT)  
 - Video Games 🎮  
-- Futebol ⚽ (Corinthians? 😅)
+- Futebol ⚽ 
 
 ---
 
