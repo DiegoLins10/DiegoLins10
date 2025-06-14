@@ -1,6 +1,6 @@
 ### Hi there 👋👯
 
-💬 Sou Diego, eu tenho 24 anos, formado em Análise e desenvolvimento de sistemas pela FATEC Ferraz de Vasconcelos. Atualmente sou um engenheiro de software com cinco anos de experiência trabalhando com .NET, Angular, SQL Server, AWS e Azure DevOps Server. Sigo buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande especialista de TI.
+💬 Sou Diego, eu tenho 24 anos, formado em Análise e desenvolvimento de sistemas pela FATEC Ferraz de Vasconcelos. Atualmente sou um engenheiro de software na IBM com cinco anos de experiência trabalhando com .NET, Java, Python Angular, SQL Server e AWS. Sigo buscando crescer e aprender cada vez mais nesse ramo de programação e desenvolvimento para me tornar um grande especialista de TI.
 
 🔭 Minhas Habilidades
  - Java
