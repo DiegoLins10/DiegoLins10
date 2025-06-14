@@ -32,7 +32,7 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 - ✔️ Security and Privacy by Design (Technical)  
 - ✔️ Develop an ASP.NET Core Web App that Consumes an API  
 - 🏅 **Melhor aproveitamento acadêmico** – FATEC Ferraz de Vasconcelos
-- [ ] AWS Certified Developer – Associate *(em andamento)*  
+- ⏳ AWS Certified Developer – Associate **(em andamento)**
 
 
 ---
