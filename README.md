@@ -2,6 +2,8 @@
 
 💬 Sou Diego, Engenheiro de Software com 24 anos e formado em Análise e Desenvolvimento de Sistemas pela FATEC Ferraz de Vasconcelos. Tenho cinco anos de experiência em desenvolvimento de software, atuando com tecnologias como .NET, Java, Python, Angular, SQL Server e soluções em nuvem com AWS. Atualmente, trabalho na IBM, contribuindo para projetos de alta relevância e desempenho. Sou apaixonado por tecnologia e estou em constante evolução, buscando me tornar um especialista de referência na área de TI.
 
+💬 I'm Diego, a 24-year-old Software Engineer with a degree in Systems Analysis and Development from FATEC Ferraz de Vasconcelos. I have five years of experience working with technologies such as .NET, Java, Python, Angular, SQL Server, and AWS. Currently, I work at IBM, contributing to high-impact and performance-driven projects. I'm passionate about technology and continuously striving to grow and evolve, aiming to become a leading expert in the IT field.
+
 🔭 Minhas Habilidades
  - Java
  - Python
