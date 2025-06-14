@@ -29,8 +29,10 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 - ✔️ [CyberOps Associate](https://www.netacad.com/courses/cybersecurity/cyberops-associate)  
 - ✔️ GitHub Copilot Fundamentals  
 - ✔️ IBM watsonx Essentials  
-- ✔️ Security and Privacy by Design (Technical)  
-- ✔️ Develop an ASP.NET Core Web App that Consumes an API  
+- ✔️ Banking Industry Jumpstart  
+- ✔️ Develop an ASP.NET Core Web App that Consumes an API
+- ✔️ Containers & Kubernetes Essentials 
+- ✔️ IBM Agile Explorer
 - 🏅 **Melhor aproveitamento acadêmico** – FATEC Ferraz de Vasconcelos
 - ⏳ AWS Certified Developer – Associate **(em andamento)**
 
