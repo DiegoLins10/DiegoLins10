@@ -62,8 +62,9 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 🔗 [Portfólio completo](https://diegolinsportfolio.netlify.app/)
 
 - 🔒 **API de Autenticação com JWT** – ASP.NET Core + Cognito  
-- 📈 **Sistema de Câmbio e Renda Fixa** – AWS Lambda, Step Functions, SQS  
-- 📊 **Pingu CheckIn - Sistema de reservas** – Angular + Python + AWS
+- 📈 **Sistema de Câmbio e Renda Fixa (Itáu)** – AWS Lambda, Step Functions, SQS  
+- 📊 **Sistema de beneficios (It's seg)** – Angular + .NET + SQL Server
+- :sparkling_heart: **Pingu CheckIn - Sistema de reservas** – Angular + Python + AWS
 
 ---
 
