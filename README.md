@@ -63,7 +63,7 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 
 - 🔒 **API de Autenticação com JWT** – ASP.NET Core + Cognito  
 - 📈 **Sistema de Câmbio e Renda Fixa** – AWS Lambda, Step Functions, SQS  
-- 📊 **Painel Interativo de Análise** – Angular + Python + AWS
+- 📊 **Pingu CheckIn - Sistema de reservas** – Angular + Python + AWS
 
 ---
 
