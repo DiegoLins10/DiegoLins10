@@ -28,6 +28,7 @@ Currently working at **IBM**, I contribute to scalable, high-performance systems
 
 - ✔️ [CyberOps Associate](https://www.netacad.com/courses/cybersecurity/cyberops-associate)  
 - ✔️ GitHub Copilot Fundamentals  
+- ✔️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fcf57062-b4d9-4cf1-9e13-dfc4766f21a7/public_url)
 - ✔️ IBM watsonx Essentials  
 - ✔️ Banking Industry Jumpstart  
 - ✔️ Develop an ASP.NET Core Web App that Consumes an API
