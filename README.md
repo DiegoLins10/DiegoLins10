@@ -97,8 +97,8 @@ Currently working at **Itaú Unibanco**, contributing to scalable, high-performa
 
 ### 📊 GitHub Stats
 
-<img width="400px" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=dark&langs_count=8" />  
-<img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegolins10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="400px" height="180em" align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DiegoLins10&hide=SCSS,Pascal&layout=compact&theme=dark&langs_count=8" />  
+<img width="400px" height="180em" src="https://github-stats-extended.vercel.app/api?username=diegolins10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ---
 
